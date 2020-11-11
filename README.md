@@ -7,4 +7,4 @@ Knowledge in operating systems, client-server, object oriented and machine learn
 Looking for Junior software developer 
 
 - 🔭 I’m currently looking for a Junior Software Developement position.
-- 🌱 I’m currently learning Spring Boot Framework, NodeJS
+- 🌱 I’m currently learning Spring Boot Framework, JS and NodeJS
